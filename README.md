@@ -12,3 +12,6 @@ http://www.ti.com/tool/SIMPLELINK-MSP432-SDK
 
 TI resource explore:
 http://dev.ti.com/tirex/explore/node?node=ADoDWIZc5WTuUbxxkAgevQ__z-lQYNj__LATEST
+
+http://dev.ti.com/tirex/explore/node?node=ACluaYOLFCob5tMo-rXv2Q__z-lQYNj__LATEST
+
