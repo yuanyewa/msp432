@@ -15,3 +15,19 @@ http://dev.ti.com/tirex/explore/node?node=ADoDWIZc5WTuUbxxkAgevQ__z-lQYNj__LATES
 
 http://dev.ti.com/tirex/explore/node?node=ACluaYOLFCob5tMo-rXv2Q__z-lQYNj__LATEST
 
+SimpleLink™ MSP432P4 SDK 3.40.01.02 Release Notes
+
+file:///Applications/ti/simplelink_msp432p4_sdk_3_40_01_02/release_notes_simplelink_msp432p4_sdk_3_40_01_02.html
+
+Quick Start Guide for SimpleLink MSP432P4 SDK
+
+file:///Applications/ti/simplelink_msp432p4_sdk_3_40_01_02/docs/simplelink_mcu_sdk/Quick_Start_Guide.html
+
+Code Composer Studio Downloads
+
+http://software-dl.ti.com/ccs/esd/documents/ccs_downloads.html
+
+
+Code Composer Studio User’s Guide
+
+http://software-dl.ti.com/ccs/esd/documents/users_guide/index.html
