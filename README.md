@@ -1,5 +1,8 @@
 # msp432
 embedded system
+
+ARM Cortex M4:
+
 ti.com/beginmsp432launchpad
 
 User guide:
@@ -35,3 +38,7 @@ http://software-dl.ti.com/ccs/esd/documents/users_guide/index.html
 MDK Microcontroller Development Kit
 
 http://www2.keil.com/mdk5 (windows only)
+
+RISC-V:
+
+https://www.sifive.com/boards/hifive1-rev-b
